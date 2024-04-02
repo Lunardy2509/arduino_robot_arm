@@ -1,0 +1,1 @@
+*Disclamer*: I don't own the 3D design for this robot arm. There would be plenty of others design in the open source if you want another version of robot arm. My recommendation would be from this [website](https://grabcad.com/library). The code is all mine and hope it is useful for those who read this. 
