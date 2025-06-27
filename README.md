@@ -73,7 +73,7 @@ I don't own the 3D design for this robot arm. The mechanical design is based on 
 - Code & Circuit: @Lunardy2509
 
 ## 📬 Contact
-- GitHub: @Lunardy2509
+- GitHub: [@Lunardy2509](https://github.com/Lunardy2509)
 - Email: ferdilunardy@gmail.com
 
 ---
