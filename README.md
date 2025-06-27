@@ -76,8 +76,8 @@ I don't own the 3D design for this robot arm. The mechanical design is based on 
 - GitHub: @Lunardy2509
 - Email: ferdilunardy@gmail.com
 
-```markdown
 ---
+
 Let me know if you want:
 - Diagram added directly to the README
 - Exported PDF of the documentation
