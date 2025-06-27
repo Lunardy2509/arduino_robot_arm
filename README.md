@@ -39,7 +39,7 @@ arduino_robot_arm/
 
 ## 📚 Arduino Libraries
 No external libraries are required. The project uses:
-- Servo.h → [Included by default in Arduino IDE]
+- `Servo.h` → [Included by default in Arduino IDE]
 If needed:
 ```cpp
 #include <Servo.h>
@@ -47,13 +47,13 @@ If needed:
 
 ## 🚀 How to Use
 ### 1. 🧠 Flash the Code
-- Open code/robot_arm.ino in Arduino IDE
+- Open `code/robot_arm.ino` in Arduino IDE
 - Connect your Arduino Uno
 - Select the right port and board
 - Upload the sketch
 
 ### 2. 🔌 Wire Everything
-- Refer to circuit schematics/ for connection diagrams
+- Refer to `circuit schematics/` for connection diagrams
 - Plug in the external 5V power to servo rail (⚠️ avoid using Arduino's 5V pin for servos)
 
 ### 3. 🎮 Manual Mode
