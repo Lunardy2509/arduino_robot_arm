@@ -1,4 +1,21 @@
-# .gitattributes
+# Force Arduino and C++ files to be treated as C++
 *.ino linguist-language=C++
+*.cpp linguist-language=C++
+*.h linguist-language=C++
+
+# Ignore documentation and test folders
 /docs/** linguist-documentation
 /tests/** linguist-vendored
+
+# Ignore non-source folders from language stats
+3D\ design/** linguist-vendored
+circuit\ schematics/** linguist-vendored
+documentation/** linguist-vendored
+
+# Exclude vector/plot/diagram files often mistaken as PostScript
+*.ps linguist-generated
+*.eps linguist-generated
+*.svg linguist-generated
+
+# Avoid Prolog detection on .pl files (change to match actual usage)
+*.pl linguist-language=Perl
