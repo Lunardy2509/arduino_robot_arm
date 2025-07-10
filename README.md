@@ -1,9 +1,9 @@
 <details>
 <summary>Click to view Documentation Images</summary>
 
-| | | |
-|---|---|---|
-| ![1](https://github.com/Lunardy2509/arduino_robot_arm/blob/main/documentation/IMG-20240329-WA0010.jpg?raw=true) | 🎥 [Watch the video](https://github.com/Lunardy2509/arduino_robot_arm/blob/main/documentation/VID-20240329-WA0022.mp4?raw=true) | ![3](https://github.com/Lunardy2509/arduino_robot_arm/blob/main/documentation/IMG-20240329-WA0011.jpg?raw=true) |
+| | |
+|---|---|
+| ![1](https://github.com/Lunardy2509/arduino_robot_arm/blob/main/documentation/IMG-20240329-WA0010.jpg?raw=true) | ![2](https://github.com/Lunardy2509/arduino_robot_arm/blob/main/documentation/IMG-20240329-WA0011.jpg?raw=true) |
 
 </details>
 
