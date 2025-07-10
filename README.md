@@ -1,3 +1,12 @@
+<details>
+<summary>Click to view Documentation Images</summary>
+
+| | | |
+|---|---|---|
+| ![1](https://github.com/Lunardy2509/arduino_robot_arm/blob/main/documentation/IMG-20240329-WA0010.jpg?raw=true) | 🎥 [Watch the video](https://github.com/Lunardy2509/arduino_robot_arm/blob/main/documentation/VID-20240329-WA0022.mp4?raw=true) | ![3](https://github.com/Lunardy2509/arduino_robot_arm/blob/main/documentation/IMG-20240329-WA0011.jpg?raw=true) |
+
+</details>
+
 # 🤖 Arduino Robot Arm (3 DoF)
 
 This is a microcontroller project built to control a 3-DoF robotic arm using Arduino.  
